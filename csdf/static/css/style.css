@@ -1,0 +1,6 @@
+/* static/css/style.css */
+body { font-family: Inter, "Segoe UI", Tahoma, sans-serif; }
+.card { border-radius: 10px; }
+.grid-thumb { width:100%; height:140px; object-fit:cover; border-radius:6px; }
+.k { color:#cfe3ff; font-weight:600; }
+.v { color:#d8e6ff; }
